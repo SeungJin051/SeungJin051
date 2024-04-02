@@ -1,15 +1,16 @@
 <div align="left">
 
 ## Profile
-- 임승진 | SeungJin Lim
-- Until I become a Frond-end Developer..
-- Dong-Eui Institute of Technology (2022 ~ 2023)
+- **임승진 | SeungJin Lim**
+- _Until I become a Frond-end Developer.._
+- **Dong-Eui Institute of Technology (2022 ~ 2023)**
   - Major: Computer software
-  - 2022 ~ 2023 Major Club Member
+  - 2022 ~ 2023 | Major Club Member
   - <img src="https://github.com/SeungJin051/SeungJin051/assets/83889135/3cea121c-57a8-43fa-9190-89d6d9c0b70c" width="500" title="jin">
   - <img src="https://github.com/SeungJin051/SeungJin051/assets/83889135/8fa17e30-31fc-4eb6-b854-dfbf4a66d864" width="500" title="jin">
-- Dong-Eui University (2024 ~ Now)
+- **Dong-Eui University (2024 ~ Now)**
   - Major: Computer Science and Engineering
+  - 2024 ~ Now | Dong-Eui University - Google Developer Student Clubs Member
 
 ## Stacks
 ### Languages and Skills
