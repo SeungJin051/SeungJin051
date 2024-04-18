@@ -9,8 +9,9 @@
   - <img src="https://github.com/SeungJin051/SeungJin051/assets/83889135/8fa17e30-31fc-4eb6-b854-dfbf4a66d864" width="500" title="jin">
 - **Dong-Eui University (2024 ~ Now)**
   - Major: Computer Engineering
-  - 2024 ~ Now | Dong-Eui University - Google Developer Student Clubs Member
-
+  - 2024 ~ Now | Dong-Eui University
+  - Google Developer Student Clubs Member
+    
 ## Stacks
 ### Languages and Skills
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
