@@ -10,7 +10,7 @@
 - **Dong-Eui University (2024 ~ Now)**
   - Major: Computer Engineering
   - 2024 ~ Now | Dong-Eui University
-  - Google Developer Student Clubs Member
+  - Google Developer Student Clubs Core Member
     
 ## Stacks
 ### Languages
