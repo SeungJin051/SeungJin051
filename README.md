@@ -19,6 +19,7 @@
 <br/>
 
 ### Frameworks & Libraries
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
 
@@ -33,15 +34,15 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  
-
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <br/>
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 
 ## Now I'm studying
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ## What I did
 | 일자 | 행사 | 주최/주관 | 결과 |
@@ -51,6 +52,5 @@
 | 2023년 10월 31일 ~ 11월 01일 | [2023 BDIA JOB FAIR](https://bdiajobfair.ninehire.site/) | 부산광역시, 부산정보산업진흥원, 부산지역 14개 대학교, 원티드 | 최우수상, 입상 |
 | 2023년 11월 03일 | 2023 DIT 캡스톤디자인경진대회 | 동의과학대학교 LINC 3.0 사업단 | Oral 부문 금상 |
 | 2023년 11월 24일 | 2023 디지텍(DigiTect) 캡스톤디자인경진대회 | 디지텍 고등직업교육협의회 | 은상 |
-
 
 </div> 
